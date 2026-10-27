@@ -1,0 +1,5 @@
+{
+  "sigma_rad": 0.5670721187502424,
+  "samples": 9000,
+  "rule": "all_after_100ps"
+}

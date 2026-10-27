@@ -1,0 +1,18 @@
+{
+  "openmm": "8.6.1",
+  "sigma_rad": 0.5670721187502424,
+  "gamma": 8.0,
+  "height_kJ": 1.2,
+  "pace_steps": 500,
+  "transitions": {
+    "20261026": 468,
+    "20261027": 476
+  },
+  "half_rmsd_kJ": {
+    "20261026": 0.33562758271199544,
+    "20261027": 0.40779854304382845
+  },
+  "replica_rmsd_kJ": 0.14432802244934595,
+  "reads_as_converged": true,
+  "platform": "CPU"
+}
